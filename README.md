@@ -25,7 +25,7 @@ python preprocess_msr.py --input_dir [MSR_DATA_PATH] --output_dir [OUT_PATH]
 
 3. run train one-stage
 ```
-python run_train_actioncls.py --cfg configs/msr_pstnet_one_stage.py
+python run_train_actioncls.py --cfg configs/msr_psttransformer_one_stage.py
 ```
 or test from our huggingface checkpoint
 ```
