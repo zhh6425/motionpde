@@ -32,4 +32,18 @@ or test from our huggingface checkpoint
 python run_test_actioncls.py --cfg configs/msr_test.py
 ```
 
+## Citation
+
+If you find this code useful for your research, please cite the following paper.
+
+```bibtex
+@article{huang2026paving,
+  title={Paving the Way for Point Cloud Video Representation Learning Using a PDE Model},
+  author={Huang, Zhuoxu and Fan, Zhenkun and Han, Jungong and Kittler, Josef},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  year={2026},
+  publisher={IEEE}
+}
+```
+
 
